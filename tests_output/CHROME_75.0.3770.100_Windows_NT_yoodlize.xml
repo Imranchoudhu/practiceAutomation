@@ -5,39 +5,9 @@
 
   <testsuite name="yoodlize"
     errors="0" failures="0" hostname="" id="" package="yoodlize" skipped="0"
-    tests="1" time="228.2" timestamp="">
+    tests="1" time="12.19" timestamp="">
   
-    <testcase name="Browse Categories" classname="yoodlize" time="228.2" assertions="16">
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
-
-    
+    <testcase name="search" classname="yoodlize" time="12.19" assertions="1">
 
     
     </testcase>
